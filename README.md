@@ -1,6 +1,8 @@
 # kianslE
 A cool Bot which I definitely made by my own :) 
 
+![alt text](https://cdn.frankerfacez.com/emoticon/413112/4)
+
 ## Commands 
 Here's a list of Commands that will work wherever the Bot is in - prefix: "~"
 
