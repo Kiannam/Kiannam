@@ -1,6 +1,5 @@
 # kianslE
-A cool Bot which I definitely made by my own :) 
-
+A cool Bot made by @Kiansly with the help of @PaauullI 
 ![alt text](https://cdn.frankerfacez.com/emoticon/413112/4)
 
 ## Commands 
