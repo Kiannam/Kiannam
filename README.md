@@ -15,6 +15,6 @@ Here's a list of Commands that will work wherever the Bot is in - prefix: "~"
 | rl | Randomline of a specified user in every Channel who's logged at https://logs.ivr.fi/ |
 | fl | Firstline of a specified user in every Channel who's logged at https://logs.ivr.fi/ |
 
-### Kian-Only-Commands ![alt text](https://cdn.frankerfacez.com/emoticon/241398/4)
+## Kian-Only-Commands ![alt text](https://cdn.frankerfacez.com/emoticon/241398/4)
 | echo & say | they pretty much explain themselves 4HEad | 
 | spam | spam the chat with TriHard  | 
