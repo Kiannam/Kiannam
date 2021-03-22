@@ -17,4 +17,4 @@ Here's a list of Commands that will work wherever the Bot is in - prefix: "~"
 
 ### Kian-Only-Commands B)
 | echo & say | they pretty much explain themselves 4HEad | 
-
+| spam | spam the chat with TriHard  | 
